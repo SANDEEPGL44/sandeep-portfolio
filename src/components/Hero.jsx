@@ -14,7 +14,7 @@ function Hero() {
 
         {/* UPDATED ROLE */}
         <h2 className="hero-role">
-          Machine Learning & Full Stack Developer
+          Python Developer & Full Stack Developer
         </h2>
 
         {/* UPDATED DESCRIPTION */}
