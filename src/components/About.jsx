@@ -100,7 +100,7 @@ export default function About() {
             </defs>
             <text>
               <textPath href="#circlePath">
-                MACHINE LEARNING • WEB DEVELOPMENT • INDIA •
+                PYTHON DEVELOPER • WEB DEVELOPMENT • INDIA •
               </textPath>
             </text>
           </svg>
